@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/typeahead",
+  "name": "@liberu-ui/typeahead",
   "version": "3.0.14",
   "description": "Vue Typeahead",
   "main": "index.js",
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/enso-ui/typeahead#readme",
   "dependencies": {
-    "@cgdsoftware/dropdown": "^3.0",
-    "@cgdsoftware/search-mode": "^3.0",
+    "@liberu-ui/dropdown": "^3.0",
+    "@liberu-ui/search-mode": "^3.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/vue-fontawesome": "3.0.0-5",
