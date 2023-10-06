@@ -103,8 +103,8 @@
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faPlus, faSearch } from '@fortawesome/free-solid-svg-icons';
-import { Dropdown, DropdownItem } from '@enso-ui/dropdown/bulma';
-import SearchMode from '@enso-ui/search-mode/bulma';
+import { Dropdown, DropdownItem } from '@liberu-ui/dropdown/bulma';
+import SearchMode from '@liberu-ui/search-mode/bulma';
 import CoreTypeahead from '../renderless/CoreTypeahead.vue';
 
 library.add(faPlus, faSearch);
