@@ -1,10 +1,10 @@
 # Typeahead
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/typeahead.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/typeahead.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/typeahead.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/typeahead.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/typeahead.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/typeahead.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/typeahead.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/typeahead.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/typeahead.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/typeahead.svg) 
 
 Vue Typeahead
 
