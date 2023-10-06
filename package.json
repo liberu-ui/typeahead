@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/typeahead",
-  "version": "3.0.17",
+  "version": "3.0.18",
   "description": "Vue Typeahead",
   "main": "index.js",
   "scripts": {
